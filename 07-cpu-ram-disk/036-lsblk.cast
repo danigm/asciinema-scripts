@@ -1,0 +1,11 @@
+{"version": 2, "width": 80, "height": 21, "timestamp": 1660807724, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.011919, "o", "\u001b[?2004h\u001b]0;vagrant@debian: ~\u0007\u001b[01;32mvagrant@debian\u001b[00m:\u001b[01;34m~\u001b[00m$ "]
+[0.642508, "o", "l"]
+[0.722576, "o", "s"]
+[1.234461, "o", "b"]
+[1.402354, "o", "l"]
+[1.722546, "o", "k"]
+[2.066906, "o", "\r\n\u001b[?2004l\r"]
+[2.081601, "o", "NAME   MAJ:MIN RM SIZE RO TYPE MOUNTPOINT\r\nsda      8:0    0  20G  0 disk \r\n└─sda1   8:1    0  20G  0 part /\r\n"]
+[2.082483, "o", "\u001b[?2004h\u001b]0;vagrant@debian: ~\u0007\u001b[01;32mvagrant@debian\u001b[00m:\u001b[01;34m~\u001b[00m$ "]
+[9.042964, "o", "\u001b[?2004l\r\r\nexit\r\n"]
